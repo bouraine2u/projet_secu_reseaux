@@ -1,0 +1,858 @@
+***********************************
+Tue Mar 17 06:16:14 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: C4:04:15:47:51:58
+                    ESSID:"chleuh_57"
+                    IE: Unknown: DD7E0050F204104A00011010440001021041000100103B00010310470010CF51D4DB04DC6AC0C443D1178575CDEB1021000D4E4554474541522C20496E632E10230008574E33313030525010240008574E3331303052501042000230311054000800060050F204000110110008574E333130305250100800020084103C000101
+          Cell 03 - Address: 04:A1:51:D9:25:6E
+                    ESSID:"NUMERICABLE-256A"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B0001031047001022C3345D26F65D3D90FF9C0DA5CE191A102100074E657467656172102300074E6574676561721024000631323334353610420007303030303030311054000800060050F2040001101100094E6574676561724150100800022008103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 14:0C:76:A3:AF:FC
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 06 - Address: 14:0C:76:A3:AF:FA
+                    ESSID:"Freebox-A3AFF9"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 07 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 08 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 09 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:16:19 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 14:0C:76:A3:AF:FC
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 06 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:16:24 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 06 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:16:29 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 06 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 07 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+***********************************
+Tue Mar 17 06:16:35 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 06 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+***********************************
+Tue Mar 17 06:16:40 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+***********************************
+Tue Mar 17 06:16:45 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:16:50 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 06 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 07 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:16:56 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 04 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+***********************************
+Tue Mar 17 06:17:01 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 06 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 07 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+***********************************
+Tue Mar 17 06:17:06 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: C4:04:15:47:51:58
+                    ESSID:"chleuh_57"
+                    IE: Unknown: DD7E0050F204104A00011010440001021041000100103B00010310470010CF51D4DB04DC6AC0C443D1178575CDEB1021000D4E4554474541522C20496E632E10230008574E33313030525010240008574E3331303052501042000230311054000800060050F204000110110008574E333130305250100800020084103C000101
+          Cell 04 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 06 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:17:12 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: C4:04:15:47:51:58
+                    ESSID:"chleuh_57"
+                    IE: Unknown: DD0E0050F204104A0001101044000102
+          Cell 04 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 06 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:17:17 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: C4:04:15:47:51:58
+                    ESSID:"chleuh_57"
+                    IE: Unknown: DD7E0050F204104A00011010440001021041000100103B00010310470010CF51D4DB04DC6AC0C443D1178575CDEB1021000D4E4554474541522C20496E632E10230008574E33313030525010240008574E3331303052501042000230311054000800060050F204000110110008574E333130305250100800020084103C000101
+          Cell 03 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 14:0C:76:A3:AF:FC
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 06 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 07 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+***********************************
+Tue Mar 17 06:17:22 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: C4:04:15:47:51:58
+                    ESSID:"chleuh_57"
+                    IE: Unknown: DD0E0050F204104A0001101044000102
+          Cell 04 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 06 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 07 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+***********************************
+Tue Mar 17 06:17:27 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 06 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+***********************************
+Tue Mar 17 06:17:33 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:17:38 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: C4:04:15:47:51:58
+                    ESSID:"chleuh_57"
+                    IE: Unknown: DD7E0050F204104A00011010440001021041000100103B00010310470010CF51D4DB04DC6AC0C443D1178575CDEB1021000D4E4554474541522C20496E632E10230008574E33313030525010240008574E3331303052501042000230311054000800060050F204000110110008574E333130305250100800020084103C000101
+          Cell 04 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 06 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+***********************************
+Tue Mar 17 06:17:43 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 04 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+***********************************
+Tue Mar 17 06:17:49 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+***********************************
+Tue Mar 17 06:17:54 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:70:0D:62
+                    ESSID:"Freebox-700D61"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 06 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 07 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:17:59 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 06 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:18:04 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD830050F204104A0001101044000102103B00010310470010B760F87A2BB4AE8E56D853FC9787857C10210008454D544134322D3110230008454D544134322D311024000631323334353610420007303030303030311054000800060050F20400011011000A536167656D436F6D4150100800020000103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: D0:84:B0:0E:6F:30
+                    ESSID:"Bbox-8324B7B3"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B0001031047001005AD42386C6E2ACACC6945530BF38FDF1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 00:24:D4:70:0D:64
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 06 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 07 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 08 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+***********************************
+Tue Mar 17 06:18:10 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 04 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+***********************************
+Tue Mar 17 06:18:15 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:70:0D:62
+                    ESSID:"Freebox-700D61"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:70:0D:63
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 06 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 07 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 08 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 09 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+          Cell 10 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:18:20 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD830050F204104A0001101044000102103B00010310470010B760F87A2BB4AE8E56D853FC9787857C10210008454D544134322D3110230008454D544134322D311024000631323334353610420007303030303030311054000800060050F20400011011000A536167656D436F6D4150100800020000103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:70:0D:62
+                    ESSID:"Freebox-700D61"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:70:0D:63
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:70:0D:64
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 06 - Address: F0:82:61:89:ED:B0
+                    ESSID:"Bbox-3A9A303E"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B00010310470010EF174339CDD651E824ECD4B334F317BD1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 07 - Address: D0:84:B0:0E:6F:30
+                    ESSID:"Bbox-8324B7B3"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B0001031047001005AD42386C6E2ACACC6945530BF38FDF1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 08 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 09 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 10 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 11 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+          Cell 12 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 13 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:18:26 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: B2:17:33:BD:D9:A1
+                    ESSID:"SFR WiFi FON"
+          Cell 04 - Address: E0:CE:C3:3C:52:E2
+                    ESSID:"NUMERICABLE-7CF6"
+                    IE: WPA Version 1
+                    IE: Unknown: DD830050F204104A0001101044000102103B00010310470010C08DC5CF5879A0CAA5B8B8E5A337464010210008454D544134322D3110230008454D544134322D311024000631323334353610420007303030303030311054000800060050F20400011011000A536167656D436F6D4150100800020000103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: B2:17:33:BD:D9:A3
+                    ESSID:"SFR WiFi Mobile"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 06 - Address: 00:17:33:BD:D9:A0
+                    ESSID:"NEUF_D99C"
+                    IE: WPA Version 1
+                    IE: Unknown: DD840050F204104A00011010440001021041000100103B00010310470010D96C7EFC2F8938F1EFBD6E5148BFA812102100044E4555461023000A4E42342D4658432D72321024000A4E42342D4658432D72321042000C3030313733334244443939431054000800060050F2040001101100094E4555465F44393943100800020084103C000101
+          Cell 07 - Address: D0:84:B0:0E:6F:30
+                    ESSID:"Bbox-8324B7B3"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 08 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 09 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 10 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 11 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 12 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+          Cell 13 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:18:31 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:70:0D:63
+                    ESSID:"FreeWifi"
+          Cell 04 - Address: 00:24:D4:70:0D:62
+                    ESSID:"Freebox-700D61"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 00:24:D4:70:0D:64
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 06 - Address: B2:17:33:BD:D9:A1
+                    ESSID:"SFR WiFi FON"
+          Cell 07 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 08 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 09 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 10 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 11 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 12 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+***********************************
+Tue Mar 17 06:18:36 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD180050F204104A00011010440001021049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: D0:84:B0:0E:6F:30
+                    ESSID:"Bbox-8324B7B3"
+                    IE: WPA Version 1
+                    IE: Unknown: DD800050F204104A0001101044000102103B0001031047001005AD42386C6E2ACACC6945530BF38FDF1021000842726F6164636F6D1023000842726F6164636F6D1024000631323334353610420004313233341054000800060050F20400011011000A42726F6164636F6D415010080002200C103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:70:0D:62
+                    ESSID:"Freebox-700D61"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 06 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 07 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 08 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 09 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+          Cell 10 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:18:41 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD830050F204104A0001101044000102103B00010310470010B760F87A2BB4AE8E56D853FC9787857C10210008454D544134322D3110230008454D544134322D311024000631323334353610420007303030303030311054000800060050F20400011011000A536167656D436F6D4150100800020000103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:70:0D:64
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:70:0D:62
+                    ESSID:"Freebox-700D61"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 06 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 07 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 08 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 09 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+          Cell 10 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:18:47 CET 2015
+          Cell 01 - Address: F4:CA:E5:B0:CA:C0
+                    ESSID:"freebox_Bouraine"
+          Cell 02 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD830050F204104A0001101044000102103B00010310470010B760F87A2BB4AE8E56D853FC9787857C10210008454D544134322D3110230008454D544134322D311024000631323334353610420007303030303030311054000800060050F20400011011000A536167656D436F6D4150100800020000103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 03 - Address: 00:24:D4:70:0D:62
+                    ESSID:"Freebox-700D61"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:70:0D:63
+                    ESSID:"FreeWifi"
+          Cell 05 - Address: 00:24:D4:70:0D:64
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 06 - Address: B2:17:33:BD:D9:A3
+                    ESSID:"SFR WiFi Mobile"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 07 - Address: 00:17:33:BD:D9:A0
+                    ESSID:"NEUF_D99C"
+                    IE: WPA Version 1
+                    IE: Unknown: DD840050F204104A00011010440001021041000100103B00010310470010D96C7EFC2F8938F1EFBD6E5148BFA812102100044E4555461023000A4E42342D4658432D72321024000A4E42342D4658432D72321042000C3030313733334244443939431054000800060050F2040001101100094E4555465F44393943100800020084103C000101
+          Cell 08 - Address: B2:17:33:BD:D9:A1
+                    ESSID:"SFR WiFi FON"
+          Cell 09 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 10 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 11 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 12 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 13 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 14 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+***********************************
+Tue Mar 17 06:18:52 CET 2015
+          Cell 01 - Address: 7C:B7:33:BA:55:09
+                    ESSID:"SFR-5503"
+                    IE: WPA Version 1
+                    IE: Unknown: DD310050F204104A000110104400010210470010C069BBCB695D78A6BDAB7F904129BB25103C0001031049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 02 - Address: B2:17:33:BD:D9:A1
+                    ESSID:"SFR WiFi FON"
+          Cell 03 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD830050F204104A0001101044000102103B00010310470010B760F87A2BB4AE8E56D853FC9787857C10210008454D544134322D3110230008454D544134322D311024000631323334353610420007303030303030311054000800060050F20400011011000A536167656D436F6D4150100800020000103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 06 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 07 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+          Cell 08 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 09 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+***********************************
+Tue Mar 17 06:18:57 CET 2015
+          Cell 01 - Address: 7C:B7:33:BA:55:09
+                    ESSID:"SFR-5503"
+                    IE: WPA Version 1
+                    IE: Unknown: DD310050F204104A000110104400010210470010C069BBCB695D78A6BDAB7F904129BB25103C0001031049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 02 - Address: B2:17:33:BD:D9:A1
+                    ESSID:"SFR WiFi FON"
+          Cell 03 - Address: C0:D9:62:C7:3C:53
+                    ESSID:"NUMERICABLE-8CCF"
+                    IE: WPA Version 1
+                    IE: Unknown: DD830050F204104A0001101044000102103B00010310470010B760F87A2BB4AE8E56D853FC9787857C10210008454D544134322D3110230008454D544134322D311024000631323334353610420007303030303030311054000800060050F20400011011000A536167656D436F6D4150100800020000103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 04 - Address: 00:24:D4:4E:99:40
+                    ESSID:"freebox_FDUALR"
+                    IE: WPA Version 1
+          Cell 05 - Address: 00:24:D4:4E:99:41
+                    ESSID:"FreeWifi"
+          Cell 06 - Address: 00:24:D4:4E:99:42
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 07 - Address: 14:0C:76:8A:03:DA
+                    ESSID:"FreeWifi"
+          Cell 08 - Address: 14:0C:76:8A:03:D9
+                    ESSID:"Freebox-8A03D8"
+                    IE: WPA Version 1
+          Cell 09 - Address: 14:0C:76:8A:03:DB
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 10 - Address: F4:CA:E5:8B:53:70
+                    ESSID:"freebox_frau"
+                    IE: WPA Version 1
+          Cell 11 - Address: 00:23:08:3D:A1:6E
+                    ESSID:"DartyBox_905D"
+                    IE: WPA Version 1
+                    IE: Unknown: DD910050F204104A000110104400010210570001001041000100103B000103104700106565252C7FB1466C834E677AB0B1904410210005426577616E102300084461727479426F781024000A307830304135304630311042000F3934303030303034343933343035301054000800060050F20400011011000F496E66696E656F6E2044616E756265100800020080103C000101
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 12 - Address: 06:23:08:3D:A1:6E
+                    ESSID:"DartyBox_905D_WEP"
+          Cell 13 - Address: F4:CA:E5:8B:53:71
+                    ESSID:"FreeWifi"
+          Cell 14 - Address: 00:24:D4:CF:81:1A
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 15 - Address: 00:24:D4:CF:81:18
+                    ESSID:"FREEBOX_HAMMED_MW"
+                    IE: WPA Version 1
+          Cell 16 - Address: 00:24:D4:CF:81:19
+                    ESSID:"FreeWifi"
+          Cell 17 - Address: 00:24:D4:57:3D:F6
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 18 - Address: F4:CA:E5:B2:AE:78
+                    ESSID:"FREEBOX_LAKHDAR_VB"
+                    IE: WPA Version 1
+          Cell 19 - Address: CE:C4:72:CF:91:C8
+                    ESSID:"freebox_ELCEXU"
+          Cell 20 - Address: CE:C4:72:CF:91:CA
+                    ESSID:"FreeWifi"
+          Cell 21 - Address: CE:C4:72:CF:91:CB
+                    ESSID:"FreeWifi_secure"
+                    IE: WPA Version 1
+          Cell 22 - Address: 00:25:15:13:F9:CC
+                    ESSID:"sfrbox_777"
+                    IE: WPA Version 1
+          Cell 23 - Address: AA:25:15:13:F9:CD
+                    ESSID:"SFR WiFi FON"
+          Cell 24 - Address: AA:25:15:13:F9:CF
+                    ESSID:"SFR WiFi Mobile"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 25 - Address: CE:C4:72:CF:91:C9
+                    ESSID:""
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 26 - Address: 80:3F:5D:F4:54:A7
+                    ESSID:"Wifi-Repeater(2.4G)"
+                    IE: WPA Version 1
+          Cell 27 - Address: E0:CE:C3:1C:77:E8
+                    ESSID:"Numericable-07"
+                    IE: WPA Version 1
+                    IE: Unknown: DD310050F204104A0001101044000102104700109FA709E5FE9026355B80C2612DCB8E80103C0001031049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 28 - Address: BC:8C:CD:D4:CC:A8
+                    ESSID:"Bbox-A7B94B11"
+                    IE: WPA Version 1
+                    IE: Unknown: DD310050F204104A000110104400010210470010BC329E001DD811B28601BC8CCDD4CCA8103C0001011049000600372A000120
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 29 - Address: F4:CA:E5:BB:50:9C
+                    ESSID:"FREEBOX_HOCINE_L5"
+                    IE: WPA Version 1
+          Cell 30 - Address: F4:CA:E5:BB:50:9D
+                    ESSID:"FreeWifi"
+          Cell 31 - Address: F4:CA:E5:BB:50:9E
+                    ESSID:"FreeWifi_secure"
+                    IE: IEEE 802.11i/WPA2 Version 1
+          Cell 32 - Address: 8C:DC:D4:C6:B8:72
+                    ESSID:"HP-Print-72-Deskjet 2540 series"
+                    IE: IEEE 802.11i/WPA2 Version 1
