@@ -1,0 +1,72 @@
+bouraine2u
+Le but du projet est de réaliser une étude passive des réseaux Wifi á portée d'1 appareil mobile sur lequel on embarquerait un OS Unix.
+(faire une étude du vide : pas vraiment ca mais plutot l'ensemble du wifi en passif)
+Analyse passive de données en se baladant avec mon laptop
+Capturer et analyser ce que l'on peut.
+Perspectives :
+-faire une cartographie
+-Evaluer la sécurité de chaque Access Point
+Etapes :
+DONE 1- Rooter le téléphone Android
+DONE 2- Installer Linux Deploy
+DONE 3- Installer Kali Linux sur la carte SD via Linux Deploy
+DONE 4- Tester la carte Wifi ( apt-get install wireless-tools 'iwlist wlan0 scanning' nous permet de faire une liste des SSID disponibles)
+DONE 5- Ecrire un script qui loggue ce qu'il écoute (un 'iwlist' toutes les 5s devrait faire l'affaire) done par un script bash --> voir script_5s répertorié environ 200 réseaux Wifi
+EN COURS 6- Trouver le moyen de logguer les positions géographiques (4G ?) (test wifite également done)
+Test de Kismet en cours apres install de gpsd gpsd-clients et kismet
+--> De meme via Linux Deploy sous Android, Kali ne semble pas détecter les devices GPS, kismet non plus ne
+donne pas d'info GPS via l'interface Wifi p2p0 fournie et détectée par kismet
+7- Essayer de retranscrire ces logs sur une map et améliorer les scripts bash par un langage plus poussé
+Détails wifite : (impossible car pas de possibilité de mode monitor sur l'interface wifidu telephone android
+via Linux Deploy, il faudrait pour cela il faudrait intaller directement Kali Nethunter á la place de Android)
+- github.com/derv82/wifite
+- http://www.nytimes.com/2011/02/17/technology/personaltech/17basics.html
+Difficultés :
+-(etape 1) rooter le téléphone, essayé une dizaine de méthodes
+-(etape 4) Installation de network-manager et network-manager-gnome, le téléphone redémarre !!!
+-(etape 4) On va reinstaller je crois :D
+root@localhost:/home/android# aptitude search vim
+[ ERR] Reading package lists
+E: Encountered a section with no Package: header
+E: Problem with MergeList /var/lib/dpkg/status
+E: The package lists or status file could not be parsed or opened.
+[ ERR] Reading package lists
+E: Encountered a section with no Package: header
+E: Problem with MergeList /var/lib/dpkg/status
+E: The package lists or status file could not be parsed or opened.
+-(etape 5) Le script suivant tourne bien toutes les 5s mais s'arrete des k'on sort de la portée de la box qui donne le wifi
+une parade serait peut etre de recuperer le wifi par mon telephone perso qui serait tjrs á portee
+SCRIPT :
+#!/bin/bash
+DATE=`date +%d%m%Y.%H%M%S`;
+while true ;
+do
+echo "***********************************" >>/home/android/wifi_scan_logfile_$DATE ;
+date >> /home/android/wifi_scan_logfile_$DATE ;
+iwlist wlan0 scan | grep -E "Cell|SSID|IE" >> /home/android/wifi_scan_logfile_$DATE ;
+sleep 5;
+done
+-(etape 6) Pb: lorsqu'on passe le tél. en mode relai lui mem, on accede bien au telephone par wifi mais iwlist ne repond plus rien !
+le but est que le projet soit utilisable par quelqu'un d'autre
+Git et Github
+http://christopheducamp.com/2013/12/16/gitHub-pour-nuls-partie-1/
+http://christopheducamp.com/2013/12/16/gitHub-pour-nuls-partie-2/
+https://help.github.com/articles/which-remote-url-should-i-use/#cloning-with-https-recommended
+Rooter un téléphone Android
+http://www.phonandroid.com/android-comment-rooter-telephone-clic-towelroot.html
+http://www.phonandroid.com/framaroot-l-application-pour-rooter-votre-appareil-en-quelques-clics.html
+https://www.youtube.com/watch?v=qE3Bcwn0Dk8
+https://www.youtube.com/watch?v=CzjMvnk7yEc
+https://www.youtube.com/watch?v=6N_TG-fucgE
+http://forum.gsmhosting.com/vbb/f719/how-do-root-huawei-y330-u01-1890927/
+https://developer.android.com/sdk/installing/index.html?pkg=tools
+http://www.phonandroid.com/forum/root-du-huawei-ascend-y200-t32395.html
+Installer Kali sur Android
+https://www.kali.org/how-to/kali-linux-android-linux-deploy/
+http://korben.info/comment-installer-linux-sur-android.html
+https://www.youtube.com/watch?v=uZ2eDb9EjzE
+Tests de sécurité des wifi
+http://null-byte.wonderhowto.com/how-to/hack-like-pro-advanced-nmap-for-reconnaissance-0151619/
+http://www.crack-wifi.com/
+Install de Kali Nethunter ?
+https://www.kali.org/kali-linux-nethunter/
